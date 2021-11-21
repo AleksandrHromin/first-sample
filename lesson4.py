@@ -14,7 +14,7 @@ x_diff = x1 - x2
 
 y_diff = y1 - y2
 
-k = y_diff / x_diff
+k = y_diff / x_diff # вставить проверку на возможность деления !
 
 b = y2 - k * x2
 
